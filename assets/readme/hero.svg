@@ -38,7 +38,7 @@
       <text x="23" y="49" text-anchor="middle" fill="#09131F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="800">01</text>
       <rect x="65" width="459" height="86" rx="18" fill="url(#panel)" stroke="#2B3D51" stroke-width="2"/>
       <text x="91" y="31" fill="#FF9C8D" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">症状 / INPUT</text>
-      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">“看完财报，未来一年能涨多少？”</text>
+      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">“分析一下 XXXX 下周股票走势”</text>
     </g>
 
     <g id="diagnosis" transform="translate(0 112)">
@@ -46,7 +46,7 @@
       <text x="23" y="49" text-anchor="middle" fill="#09131F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="800">02</text>
       <rect x="65" width="459" height="86" rx="18" fill="url(#panel)" stroke="#2B3D51" stroke-width="2"/>
       <text x="91" y="31" fill="#F2C96D" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">诊断 / GAP</text>
-      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">单点预测 · 背景信息不足</text>
+      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">任务模糊 · 预测不确定性</text>
     </g>
 
     <g id="prescription" transform="translate(0 224)">
