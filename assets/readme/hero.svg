@@ -38,7 +38,7 @@
       <text x="23" y="49" text-anchor="middle" fill="#09131F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="800">01</text>
       <rect x="65" width="459" height="86" rx="18" fill="url(#panel)" stroke="#2B3D51" stroke-width="2"/>
       <text x="91" y="31" fill="#FF9C8D" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">症状 / INPUT</text>
-      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">“写得专业一点，必须绝对准确”</text>
+      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">“看完财报，未来一年能涨多少？”</text>
     </g>
 
     <g id="diagnosis" transform="translate(0 112)">
@@ -46,7 +46,7 @@
       <text x="23" y="49" text-anchor="middle" fill="#09131F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="800">02</text>
       <rect x="65" width="459" height="86" rx="18" fill="url(#panel)" stroke="#2B3D51" stroke-width="2"/>
       <text x="91" y="31" fill="#F2C96D" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">诊断 / GAP</text>
-      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">标准不可观察 · 承诺无法兑现</text>
+      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">单点预测 · 背景信息不足</text>
     </g>
 
     <g id="prescription" transform="translate(0 224)">
@@ -54,14 +54,14 @@
       <text x="23" y="49" text-anchor="middle" fill="#09131F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="800">03</text>
       <rect x="65" width="459" height="86" rx="18" fill="#122B28" stroke="#2E765F" stroke-width="2"/>
       <text x="91" y="31" fill="#72E2BA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700">处方 / OUTPUT</text>
-      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">证据 · 结构 · 验收 · 能力边界</text>
+      <text x="91" y="63" fill="#F4F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="24">信息汇总 · 多空推演 · 情景化</text>
     </g>
   </g>
 
   <g id="metadata" transform="translate(58 377)">
     <text fill="#8090A2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">CODEX SKILL</text>
-    <text x="151" fill="#8090A2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">MINIMAL INTERVENTION</text>
-    <text x="410" fill="#8090A2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">PRIVACY-AWARE</text>
+    <text x="151" fill="#8090A2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">9-POINT DIAGNOSIS</text>
+    <text x="410" fill="#8090A2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">TONE-PRESERVING</text>
     <text x="1035" fill="#AEEBD6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">v1</text>
   </g>
 </svg>
