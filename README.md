@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Prompt Doctor：从症状、诊断到处方，优化已有提示词">
+  <img src="./assets/readme/hero.png" width="100%" alt="Prompt Doctor：诊断已有提示词，并用本地个人提示词画像持续优化">
 </p>
 
 <p align="center">
@@ -159,7 +159,7 @@ prompt-doctor/
 ├── README.md                 # GitHub 项目首页
 ├── SKILL.md                  # 核心工作流与护栏
 ├── agents/openai.yaml        # Codex UI 元数据
-├── assets/readme/hero.svg    # README 视觉标题
+├── assets/readme/hero.png    # README 视觉标题与生长机制
 └── references/
     ├── checklist.md          # 9 项诊断清单
     ├── rewrites.md           # 8 类重写动作
