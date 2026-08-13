@@ -118,14 +118,15 @@ git -C ~/.agents/skills/prompt-doctor pull --ff-only
 2. **不加做不到的约束**：把“保证准确”等要求改成标注不确定处和待核实项。
 3. **保留用户语气**：优化提示词，不擅自改变用户真正想做的事。
 
-原版还定义了案例生长机制：遇到有代表性的真实反馈或新模式时，可把案例追加到 `references/examples.md`；超过 10 条时先修剪同类案例。
+技能还定义了案例生长机制：仅在用户明确同意后，才可匿名化追加有代表性的真实案例；超过 10 条时先修剪同类案例。
 
 ## 仓库结构
 
 ```text
 prompt-doctor/
 ├── README.md                 # GitHub 项目首页
-├── SKILL.md                  # 原版工作流，仅修复 frontmatter 兼容性
+├── SKILL.md                  # 核心工作流与护栏
+├── agents/openai.yaml        # Codex UI 元数据
 ├── assets/readme/hero.svg    # README 视觉标题
 └── references/
     ├── checklist.md          # 原版 9 项诊断清单
@@ -133,4 +134,4 @@ prompt-doctor/
     └── examples.md           # 原版前后对照示例
 ```
 
-README 和 `assets/readme/` 只负责 GitHub 展示；技能行为以 `SKILL.md` 和 `references/` 为准。技能 frontmatter 已通过 `skill-creator` 的结构校验。
+README 和 `assets/readme/` 只负责 GitHub 展示；技能行为以 `SKILL.md` 和 `references/` 为准。技能已通过 `skill-creator` 的结构校验。
